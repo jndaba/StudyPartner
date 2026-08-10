@@ -1,4 +1,4 @@
-# StudySync – Adaptive Study Planner
+# StudyPartner – Adaptive Study Planner
 
 ## 1. Project Overview
 
@@ -22,7 +22,7 @@ This can result in:
 - difficulty tracking academic progress
 - increased cognitive workload
 
-StudySync aims to provide one mobile interface for organizing and
+StudyPartner aims to provide one mobile interface for organizing and
 prioritizing academic activities.
 
 ## 3. Target Users
@@ -125,16 +125,12 @@ Testing focused on:
 
 ## 11. Team
 
-| Member | Role | Contribution |
-|---|---|---|
-| Member 1 | UX/UI | ... |
-| Member 2 | Research | ... |
-| Member 3 | Prototype | ... |
-| Member 4 | Testing | ... |
-| Member 5 | Documentation | ... |
-| Member 6 | GitHub | ... |
-| Member 7 | HCI Evaluation | ... |
-| Member 8 | Presentation | ... |
+| Member | Role 
+| Joel | UX/UI + GitHub
+| David | Research
+| Leighton | Prototype + HCI evaluation
+| Levi | Testing 
+| Michael | Documentation 
 
 ## 12. Repository Structure
 
@@ -142,6 +138,5 @@ Testing focused on:
 balsamiq/
 documentation/
 testing/
-report/
-presentation/# StudyPartner
+# StudyPartner
 The app provides students with a centralized mobile platform for organizing academic tasks, creating personalized study schedules, tracking progress and rescheduling missed activities.
