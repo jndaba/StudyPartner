@@ -117,26 +117,25 @@ Testing focused on:
 
 ## 9. Findings
 
-[Insert actual findings from the five participants.]
+Insert actual findings from the five participants.
 
 ## 10. Prototype Revisions
 
-[Insert the changes made based on the testing findings.]
+Insert the changes made based on the testing findings.
 
 ## 11. Team
-
-| Member | Role 
-| Joel | UX/UI + GitHub
-| David | Research
-| Leighton | Prototype + HCI evaluation
-| Levi | Testing 
-| Michael | Documentation 
+ Member Role 
+ Joel UX/UI + GitHub
+ David  Research
+ Leighton  Prototype + HCI evaluation
+ Levi  Testing 
+Michael  Documentation 
 
 ## 12. Repository Structure
 
 ```text
-balsamiq/
-documentation/
-testing/
+balsamiq
+documentation
+testing
 # StudyPartner
 The app provides students with a centralized mobile platform for organizing academic tasks, creating personalized study schedules, tracking progress and rescheduling missed activities.
