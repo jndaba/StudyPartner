@@ -117,11 +117,26 @@ Testing focused on:
 
 ## 9. Findings
 
-Insert actual findings from the five participants.
+Finding 1: Clear task creation flow
+Finding 2: Adaptive recommendations were useful
+Finding 3: Progress information was easy to understand
+Finding 4: Some information required clearer visual emphasis
+Finding 5: Navigation was generally understandable
+Finding 6: Study preferences support personalization
+
+Overall, the usability testing indicated that StudySync provides a clear and understandable mobile interface for managing academic tasks, planning study sessions, receiving reminders, and monitoring progress. The testing also identified areas where information hierarchy and navigation could be improved.
 
 ## 10. Prototype Revisions
 
-Insert the changes made based on the testing findings.
+-Improved deadline visibility
+-Clarified adaptive recommendations
+-Improved progress information
+-Improved reminder controls
+-Improved navigation consistency
+-Improved study personalization
+
+The usability testing process resulted in several improvements to the prototype. The final design places greater emphasis on deadlines and priorities, provides clearer explanations for adaptive recommendations, improves progress visibility, strengthens reminder controls, and maintains consistent mobile navigation.
+
 
 ## 11. Team
  Member Role 
